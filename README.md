@@ -1,8 +1,9 @@
 # Batch Transcoder (HandBrakeCLI)
 
-A small GUI tool that batches HandBrakeCLI transcodes for files in a folder. It
-processes files one at a time, invokes HandBrakeCLI for each file, and deletes
-the source file after a successful encode.
+A small GUI tool that batches HandBrakeCLI transcodes for files in a folder. 
+For the goal of freeing disk space, without losing any unviewed footage.
+It processes files one at a time, invokes HandBrakeCLI for each file, and deletes
+the source file after a successful encode.  
 
 ## Features
 
